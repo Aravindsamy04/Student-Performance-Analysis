@@ -1,0 +1,101 @@
+Student_ID,Name,Gender,Department,Attendance,Study_Hours,Assignment_Score,Internal_Marks,Python,SQL,Maths,Placement_Status
+1,Riya,Male,AI&DS,72,2.7,48,87,48,46,89,Placed
+2,Arun,Male,CSE,69,4.5,41,75,60,88,63,Not Placed
+3,Keerthi,Female,AI&DS,65,5.9,61,57,54,62,78,Placed
+4,Rahul,Female,AI&DS,77,6.9,78,56,40,93,50,Not Placed
+5,Rahul,Female,IT,78,5.0,85,44,40,64,72,Placed
+6,Swetha,Male,AI&DS,79,2.9,80,93,81,55,82,Not Placed
+7,Vijay,Female,AI&DS,93,5.4,74,86,66,55,94,Not Placed
+8,Ajay,Male,ECE,58,2.6,42,91,75,86,69,Placed
+9,Vijay,Female,CSE,96,4.5,96,98,93,53,68,Placed
+10,Vijay,Female,IT,82,7.3,65,63,63,52,100,Not Placed
+11,Rahul,Male,AI&DS,64,5.4,90,83,89,43,84,Not Placed
+12,Keerthi,Female,IT,71,7.8,95,100,36,49,69,Not Placed
+13,Rahul,Female,EEE,65,4.2,86,96,68,99,57,Placed
+14,Swetha,Female,IT,93,2.4,63,88,55,35,76,Not Placed
+15,Arun,Male,ECE,74,2.7,55,96,45,45,97,Placed
+16,Nithya,Male,CSE,97,4.3,75,50,68,89,62,Placed
+17,Harini,Female,EEE,97,5.5,68,97,92,50,66,Placed
+18,Rahul,Female,AI&DS,92,4.9,77,54,35,44,42,Placed
+19,Rahul,Male,ECE,59,4.6,57,82,97,62,51,Not Placed
+20,Vijay,Female,EEE,67,1.7,82,67,80,89,87,Not Placed
+21,Swetha,Male,AI&DS,58,3.8,61,91,48,66,59,Placed
+22,Ananya,Female,CSE,82,2.3,69,55,44,91,47,Placed
+23,Riya,Male,AI&DS,70,2.2,71,70,62,86,42,Placed
+24,Divya,Male,EEE,71,7.5,90,69,71,89,97,Placed
+25,Vijay,Female,CSE,58,5.1,74,43,75,42,41,Not Placed
+26,Ananya,Male,AI&DS,87,1.6,51,44,43,65,86,Placed
+27,Pooja,Male,IT,93,1.3,45,66,75,68,61,Not Placed
+28,Vijay,Female,EEE,63,5.7,59,69,75,44,36,Not Placed
+29,Keerthi,Male,AI&DS,89,2.5,56,48,79,43,66,Not Placed
+30,Ajay,Male,EEE,89,5.9,79,91,36,73,48,Placed
+31,Ajay,Male,AI&DS,90,2.1,58,78,61,78,61,Not Placed
+32,Ananya,Female,ECE,58,1.6,67,93,70,40,35,Not Placed
+33,Nithya,Male,ECE,65,6.2,75,85,89,36,49,Placed
+34,Pooja,Male,IT,57,6.8,77,75,53,90,51,Placed
+35,Ajay,Female,AI&DS,77,2.5,55,82,48,80,87,Placed
+36,Pooja,Male,CSE,66,7.2,41,51,77,87,66,Not Placed
+37,Karthik,Male,EEE,57,7.0,54,52,93,79,74,Placed
+38,Vijay,Male,CSE,80,3.3,95,44,70,79,100,Not Placed
+39,Riya,Female,AI&DS,62,7.1,56,51,68,39,48,Not Placed
+40,Priya,Female,EEE,93,7.9,47,64,59,67,40,Not Placed
+41,Arun,Male,ECE,82,1.5,82,98,77,75,50,Not Placed
+42,Ananya,Female,EEE,75,3.8,58,75,51,59,88,Not Placed
+43,Riya,Male,IT,91,3.1,75,93,35,73,71,Placed
+44,Divya,Female,EEE,83,4.1,53,72,95,56,45,Not Placed
+45,Ananya,Female,AI&DS,70,5.7,54,91,60,53,38,Placed
+46,Vijay,Female,IT,59,4.2,96,80,59,84,98,Not Placed
+47,Vijay,Male,AI&DS,61,6.4,54,51,94,41,66,Placed
+48,Sneha,Male,EEE,97,4.7,75,78,75,91,99,Not Placed
+49,Swetha,Female,CSE,85,4.2,88,55,70,97,65,Not Placed
+50,Sneha,Male,ECE,70,2.9,60,97,45,52,54,Placed
+51,Divya,Male,CSE,59,3.9,61,74,94,88,42,Placed
+52,Swetha,Female,EEE,92,7.6,41,94,83,96,35,Not Placed
+53,Ajay,Female,EEE,89,6.2,74,91,63,97,63,Not Placed
+54,Divya,Female,AI&DS,79,3.4,83,91,86,56,94,Placed
+55,Keerthi,Male,EEE,92,5.0,41,45,89,52,94,Placed
+56,Arun,Female,EEE,75,2.5,60,61,83,70,88,Not Placed
+57,Swetha,Male,EEE,56,6.2,43,100,79,63,43,Placed
+58,Nithya,Male,CSE,67,6.9,79,49,65,51,95,Placed
+59,Keerthi,Male,EEE,99,2.8,63,50,49,55,74,Placed
+60,Keerthi,Male,ECE,91,5.7,64,65,60,44,66,Placed
+61,Harini,Female,IT,62,6.6,76,90,40,79,89,Not Placed
+62,Rahul,Female,AI&DS,81,6.8,46,67,81,93,54,Not Placed
+63,Karthik,Female,IT,89,6.4,69,67,69,76,66,Placed
+64,Ajay,Female,CSE,84,5.0,82,64,78,38,98,Not Placed
+65,Karthik,Female,CSE,77,6.6,61,57,70,36,59,Placed
+66,Vijay,Female,EEE,90,6.3,84,70,97,92,37,Placed
+67,Ajay,Male,EEE,99,2.7,82,77,82,95,79,Not Placed
+68,Harini,Female,ECE,99,4.2,59,56,64,50,59,Not Placed
+69,Rahul,Male,CSE,68,6.2,57,86,71,47,59,Not Placed
+70,Vijay,Female,CSE,74,1.1,74,48,70,40,41,Not Placed
+71,Harini,Male,EEE,61,7.1,76,58,95,96,91,Not Placed
+72,Karthik,Male,ECE,85,1.8,44,65,97,44,41,Placed
+73,Karthik,Female,AI&DS,70,1.8,88,66,63,83,92,Not Placed
+74,Ajay,Female,ECE,91,5.3,79,87,47,61,62,Not Placed
+75,Riya,Male,CSE,70,2.2,44,50,35,87,92,Not Placed
+76,Ajay,Male,CSE,73,5.9,84,95,93,44,64,Not Placed
+77,Nithya,Male,EEE,62,4.8,81,49,69,53,44,Placed
+78,Karthik,Female,IT,91,7.4,68,47,94,73,86,Not Placed
+79,Ananya,Female,EEE,60,5.2,96,67,76,67,38,Placed
+80,Vijay,Male,ECE,91,1.3,88,51,95,91,70,Placed
+81,Keerthi,Female,EEE,60,4.3,66,61,76,48,55,Not Placed
+82,Divya,Female,ECE,97,7.6,92,88,39,93,46,Not Placed
+83,Ajay,Female,AI&DS,80,7.1,92,40,94,87,41,Placed
+84,Ananya,Female,IT,86,5.4,88,43,61,69,51,Not Placed
+85,Sneha,Female,AI&DS,56,7.8,78,91,65,55,74,Placed
+86,Ananya,Female,AI&DS,69,7.9,98,47,94,50,54,Not Placed
+87,Pooja,Female,IT,100,2.9,93,70,95,66,93,Placed
+88,Divya,Male,IT,87,6.2,48,95,43,70,88,Not Placed
+89,Pooja,Female,AI&DS,73,6.1,93,77,97,54,92,Not Placed
+90,Priya,Female,IT,89,3.6,99,60,59,65,84,Placed
+91,Swetha,Female,AI&DS,75,6.2,85,98,83,84,54,Not Placed
+92,Arun,Male,IT,92,3.3,46,95,91,47,93,Placed
+93,Harini,Male,EEE,96,7.8,44,70,68,78,85,Placed
+94,Swetha,Female,IT,79,7.7,80,85,97,39,43,Placed
+95,Riya,Female,CSE,60,4.0,46,88,47,91,56,Not Placed
+96,Pooja,Male,AI&DS,75,6.6,58,62,82,90,53,Placed
+97,Ananya,Female,IT,98,6.5,50,51,45,83,65,Not Placed
+98,Pooja,Male,CSE,84,5.5,69,56,36,94,71,Placed
+99,Rahul,Female,ECE,92,3.1,67,84,67,93,73,Placed
+100,Divya,Female,AI&DS,70,3.7,62,76,72,72,37,Not Placed
